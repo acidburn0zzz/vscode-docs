@@ -1,6 +1,6 @@
 { 
- 	"version": "0.1.0", 
- 	"language": "en", 
+ 	"version": "0.1.1-99.06-01fra", 
+ 	"language": "fr", 
  	"ignoreWordsList": [ 
         "breakpoint",
         "breakpoints",
@@ -92,12 +92,29 @@
  		"Missing apostrophe": "Error", 
  		"Cliches": "Warning", 
  		"Missing Word": "Warning", 
- 		"Make I uppercase": "Error" 
+ 		"Make I uppercase": "Error"
  	}, 
  	"languageIDs" : [ 
- 		"markdown", 
+   "plaintext",
+   "richtextfile",
+   "hypertext",
+   "personalhomepage",
+   "markdown", 
  		"latex", 
- 		"plaintext" 
+ 		"postscript",
+   "postscriptetendu",
+   "stylesheet",
+   "publisher",
+   "embendedpublisher",
+   "typescript",
+   "javascript",
+   "cofeescript",
+   "ecmasccript",
+   "chocoscript",
+   "swaggerscript",
+   "truescript",
+   "simplescript",
+   "simpletext" 
  	],
     "ignoreRegExp": [
         "/`(kb.*?)`/g",
