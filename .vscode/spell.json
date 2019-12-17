@@ -114,7 +114,7 @@
    "swaggerscript",
    "truescript",
    "simplescript",
-   "simpletext" 
+   "simpletext"
  	],
     "ignoreRegExp": [
         "/`(kb.*?)`/g",
